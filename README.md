@@ -62,8 +62,8 @@
 ### 📊 Estadísticas de GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=xxi-software&show_icons=true&theme=radical&hide_border=true" height="160px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xxi-software&layout=compact&theme=radical&hide_border=true" height="160px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Software-XXI&show_icons=true&theme=radical&hide_border=true" height="160px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Software-XXI&layout=compact&theme=radical&hide_border=true" height="160px" />
 </div>
 
 <br>
