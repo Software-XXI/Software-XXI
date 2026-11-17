@@ -32,7 +32,7 @@
 * 💼 **Experiencia:** Trabajé 6 meses en **ePayco SAS** utilizando PHP y TypeScript para implementar endpoints de pago y resolver bugs críticos.
 * 🎓 **Formación:** Tecnología en Análisis y Desarrollo de Software (SENA) & Técnica en Desarrollo de Software (CESDE).
 * 🤖 **IA:** Bootcamp de Inteligencia Artificial en Talento Tech.
-* 🌱 **Actualmente aprendiendo:** Profundizando en **Spring Boot** para crear automatizaciones complejas con **Make**.
+* 🌱 **Actualmente aprendiendo:** Ciberseguridad **.
 * 🧩 **Filosofía:** Me enfoco en buenas prácticas de codificación, Patrones de Diseño y Código Limpio.
 
 ---
